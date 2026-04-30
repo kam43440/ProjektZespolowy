@@ -1151,3 +1151,140 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.04.30-19.13.49:938][890]LogSlate: Window 'Plugins' being destroyed
 [2026.04.30-19.13.49:942][890]LogSlate: Window 'Plugins' being destroyed
 [2026.04.30-19.14.05:173][638]LogSlate: Window 'Revision Control Login' being destroyed
+[2026.04.30-19.15.32:155][550]LogSlate: Took 0.000158 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2026.04.30-19.15.32:287][563]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_0
+[2026.04.30-19.15.32:402][568]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2026.04.30-19.15.32:479][573]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2026.04.30-19.15.32:650][586]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2026.04.30-19.15.33:880][721]LogDerivedDataCache: C:/Users/tiker/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.04.30-19.19.07:590][500]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 329.073090
+[2026.04.30-19.19.07:757][520]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.30-19.19.07:757][521]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 329.231964, Update Interval: 303.581665
+[2026.04.30-19.19.36:527][242]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.04.30-19.19.36:532][242]LogContentBrowser: Creating deferred item: NewFolder
+[2026.04.30-19.19.36:545][243]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.04.30-19.19.39:742][624]LogContentBrowser: Attempting asset rename: NewFolder -> Player
+[2026.04.30-19.19.39:742][624]LogContentBrowser: End creating deferred item NewFolder
+[2026.04.30-19.20.00:458][537]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.04.30-19.20.00:462][537]LogContentBrowser: Creating deferred item: NewFolder
+[2026.04.30-19.20.00:467][538]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.04.30-19.20.03:025][844]LogContentBrowser: Attempting asset rename: NewFolder -> Enemies
+[2026.04.30-19.20.03:025][844]LogContentBrowser: End creating deferred item NewFolder
+[2026.04.30-19.20.48:077][ 26]LogContentBrowser: Deferred new asset file creation: BP_ThirdPersonCharacter1
+[2026.04.30-19.20.48:081][ 26]LogContentBrowser: Creating deferred item: BP_ThirdPersonCharacter1
+[2026.04.30-19.20.48:101][ 27]LogContentBrowser: Renaming the item being created (Deferred Item: BP_ThirdPersonCharacter1).
+[2026.04.30-19.20.53:902][722]LogContentBrowser: Attempting asset rename: BP_ThirdPersonCharacter1 -> BP_Player
+[2026.04.30-19.20.54:104][722]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.04.30-19.20.54:206][722]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.30-19.20.54:232][722]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_Player] ([2] browsable assets)...
+[2026.04.30-19.20.54:232][722]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2026.04.30-19.20.54:266][722]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_Player.BP_Player]
+[2026.04.30-19.20.54:266][722]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2026.04.30-19.20.54:277][722]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_Player.BP_Player_C]
+[2026.04.30-19.20.54:277][722]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_Player]
+[2026.04.30-19.20.54:277][722]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_Player" FILE="../../../../../UnrealProjects/Inzynierka/Inzynierka/Content/ThirdPerson/Blueprints/BP_Player.uasset" SILENT=true
+[2026.04.30-19.20.54:322][722]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_Player
+[2026.04.30-19.20.54:322][722]LogSavePackage: Moving '../../../../../UnrealProjects/Inzynierka/Inzynierka/Saved/BP_PlayerE8BF4F4E44DB85F3988F478FF1383F5B.tmp' to '../../../../../UnrealProjects/Inzynierka/Inzynierka/Content/ThirdPerson/Blueprints/BP_Player.uasset'
+[2026.04.30-19.20.54:467][722]LogFileHelpers: InternalPromptForCheckoutAndSave took 260.765 ms
+[2026.04.30-19.20.54:676][722]LogContentBrowser: End creating deferred item BP_ThirdPersonCharacter1
+[2026.04.30-19.20.54:708][722]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.30-19.20.54:708][722]LogContentValidation: Enabled validators:
+[2026.04.30-19.20.54:710][722]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.30-19.20.54:710][722]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.30-19.20.54:710][722]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.30-19.20.54:710][722]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.30-19.20.54:710][722]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.30-19.20.54:710][722]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.30-19.20.54:712][722]AssetCheck: /Game/ThirdPerson/Blueprints/BP_Player Validating asset
+[2026.04.30-19.21.00:620][832]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_Player.BP_Player_C
+[2026.04.30-19.21.00:620][832]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_Player.BP_Player_C
+[2026.04.30-19.21.00:638][832]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BP_Player.BP_Player as actor: BP_Player_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Player_C_0
+[2026.04.30-19.21.00:641][832]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BP_Player.BP_Player as actor: BP_Player_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Player_C_0
+[2026.04.30-19.21.00:649][832]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2026.04.30-19.21.01:378][913]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.04.30-19.21.01:379][913]LogEditorActor: Deleted 0 Actors (0.021 secs)
+[2026.04.30-19.21.02:536][ 49]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_Player.BP_Player_C
+[2026.04.30-19.21.02:536][ 49]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_Player.BP_Player_C
+[2026.04.30-19.21.02:542][ 49]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BP_Player.BP_Player as actor: BP_Player_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Player_C_1
+[2026.04.30-19.21.02:544][ 49]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BP_Player.BP_Player as actor: BP_Player_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Player_C_1
+[2026.04.30-19.21.03:132][103]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.04.30-19.21.03:133][103]LogEditorActor: Deleted 0 Actors (0.014 secs)
+[2026.04.30-19.21.03:967][202]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_Player.BP_Player_C
+[2026.04.30-19.21.03:967][202]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_Player.BP_Player_C
+[2026.04.30-19.21.03:971][202]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BP_Player.BP_Player as actor: BP_Player_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Player_C_2
+[2026.04.30-19.21.03:973][202]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BP_Player.BP_Player as actor: BP_Player_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Player_C_2
+[2026.04.30-19.21.05:661][380]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.04.30-19.21.05:662][380]LogEditorActor: Deleted 0 Actors (0.016 secs)
+[2026.04.30-19.21.06:112][433]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_Player.BP_Player_C
+[2026.04.30-19.21.06:112][433]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_Player.BP_Player_C
+[2026.04.30-19.21.06:115][433]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BP_Player.BP_Player as actor: BP_Player_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Player_C_3
+[2026.04.30-19.21.06:117][433]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BP_Player.BP_Player as actor: BP_Player_C /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.BP_Player_C_3
+[2026.04.30-19.21.06:722][499]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.04.30-19.21.06:723][499]LogEditorActor: Deleted 0 Actors (0.014 secs)
+[2026.04.30-19.21.15:740][444]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.30-19.21.15:740][444]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/BP_Player] ([2] browsable assets)...
+[2026.04.30-19.21.15:772][444]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/ThirdPerson/BP_Player.BP_Player_C]
+[2026.04.30-19.21.15:772][444]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/BP_Player]
+[2026.04.30-19.21.15:772][444]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/BP_Player" FILE="../../../../../UnrealProjects/Inzynierka/Inzynierka/Content/ThirdPerson/BP_Player.uasset" SILENT=true
+[2026.04.30-19.21.15:788][444]LogSavePackage: Moving output files for package: /Game/ThirdPerson/BP_Player
+[2026.04.30-19.21.15:788][444]LogSavePackage: Moving '../../../../../UnrealProjects/Inzynierka/Inzynierka/Saved/BP_PlayerE7C91F0C44492C08495B84B8CEFBED34.tmp' to '../../../../../UnrealProjects/Inzynierka/Inzynierka/Content/ThirdPerson/BP_Player.uasset'
+[2026.04.30-19.21.15:921][444]LogFileHelpers: InternalPromptForCheckoutAndSave took 181.087 ms (total: 441.853 ms)
+[2026.04.30-19.21.16:050][444]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.04.30-19.21.16:064][444]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.04.30-19.21.16:072][444]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2026.04.30-19.21.16:184][444]SourceControl: rm 'Inzynierka/Content/ThirdPerson/Blueprints/BP_Player.uasset'
+[2026.04.30-19.21.16:204][444]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2026.04.30-19.21.16:204][444]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.30-19.21.16:204][444]LogContentValidation: Enabled validators:
+[2026.04.30-19.21.16:204][444]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.30-19.21.16:204][444]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.30-19.21.16:204][444]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.30-19.21.16:204][444]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.30-19.21.16:205][444]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.30-19.21.16:205][444]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.30-19.21.16:205][444]AssetCheck: /Game/ThirdPerson/BP_Player Validating asset
+[2026.04.30-19.21.28:984][856]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.30-19.21.28:984][856]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Player/BP_Player] ([2] browsable assets)...
+[2026.04.30-19.21.29:017][856]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/Player/BP_Player.BP_Player_C]
+[2026.04.30-19.21.29:017][856]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player/BP_Player]
+[2026.04.30-19.21.29:017][856]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../UnrealProjects/Inzynierka/Inzynierka/Content/Player/BP_Player.uasset" SILENT=true
+[2026.04.30-19.21.29:031][856]LogSavePackage: Moving output files for package: /Game/Player/BP_Player
+[2026.04.30-19.21.29:031][856]LogSavePackage: Moving '../../../../../UnrealProjects/Inzynierka/Inzynierka/Saved/BP_Player0C582E104D4489C84ACADFA825B341B8.tmp' to '../../../../../UnrealProjects/Inzynierka/Inzynierka/Content/Player/BP_Player.uasset'
+[2026.04.30-19.21.29:157][856]LogFileHelpers: InternalPromptForCheckoutAndSave took 173.279 ms (total: 615.133 ms)
+[2026.04.30-19.21.29:258][856]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.04.30-19.21.29:270][856]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.04.30-19.21.29:277][856]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2026.04.30-19.21.29:388][856]SourceControl: rm 'Inzynierka/Content/ThirdPerson/BP_Player.uasset'
+[2026.04.30-19.21.29:407][856]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2026.04.30-19.21.29:407][856]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.30-19.21.29:407][856]LogContentValidation: Enabled validators:
+[2026.04.30-19.21.29:407][856]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.30-19.21.29:407][856]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.30-19.21.29:407][856]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.30-19.21.29:407][856]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.30-19.21.29:407][856]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.30-19.21.29:407][856]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.30-19.21.29:407][856]AssetCheck: /Game/Player/BP_Player Validating asset
+[2026.04.30-19.21.40:899][326]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.BP_ThirdPersonGameMode
+[2026.04.30-19.21.40:901][326]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2026.04.30-19.21.40:995][326]LogStreaming: Display: FlushAsyncLoading(396): 1 QueuedPackages, 0 AsyncPackages
+[2026.04.30-19.21.56:490][700]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.30-19.21.56:519][700]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode] ([2] browsable assets)...
+[2026.04.30-19.21.56:520][700]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode]
+[2026.04.30-19.21.56:530][700]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode
+[2026.04.30-19.21.56:530][700]LogSavePackage: Moving '../../../../../UnrealProjects/Inzynierka/Inzynierka/Saved/BP_ThirdPersonGameModeC5C17387426FECC85AE60D846334FDA7.tmp' to '../../../../../UnrealProjects/Inzynierka/Inzynierka/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset'
+[2026.04.30-19.21.56:538][700]LogFileHelpers: InternalPromptForCheckoutAndSave took 48.402 ms (total: 663.535 ms)
+[2026.04.30-19.21.56:566][700]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.30-19.21.56:566][700]LogContentValidation: Enabled validators:
+[2026.04.30-19.21.56:567][700]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.30-19.21.56:567][700]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.30-19.21.56:567][700]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.30-19.21.56:567][700]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.30-19.21.56:567][700]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.30-19.21.56:567][700]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.30-19.21.56:567][700]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode Validating asset
+[2026.04.30-19.21.58:199][891]LogSlate: Window 'BP_ThirdPersonGameMode' being destroyed
+[2026.04.30-19.21.58:203][891]LogSlate: Window 'BP_ThirdPersonGameMode' being destroyed
+[2026.04.30-19.21.58:208][891]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2026.04.30-19.21.58:208][891]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.04.30-19.21.58:260][891]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
