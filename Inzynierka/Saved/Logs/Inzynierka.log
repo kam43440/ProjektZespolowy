@@ -1631,3 +1631,24 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.04.30-19.33.15:382][721]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.04.30-19.33.15:382][721]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.04.30-19.33.15:382][721]AssetCheck: /Game/Enemies/BP_Enemy_Base Validating asset
+[2026.04.30-19.34.26:699][555]LogSlate: Window 'BP_Enemy_Base' being destroyed
+[2026.04.30-19.34.36:130][ 45]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2026.04.30-19.34.36:130][ 45]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2026.04.30-19.34.36:133][ 45]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.NavMeshBoundsVolume_UAID_D843AE14D86CADD602_2032095928
+[2026.04.30-19.34.36:151][ 45]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson:PersistentLevel.NavMeshBoundsVolume_UAID_D843AE14D86CADD602_2032095928
+[2026.04.30-19.35.21:840][306]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.30-19.35.21:884][306]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/3O/JF7ONW4XEKSN6G8CQJX2HI
+[2026.04.30-19.35.21:884][306]LogSavePackage: Moving '../../../../../UnrealProjects/Inzynierka/Inzynierka/Saved/JF7ONW4XEKSN6G8CQJX2HIB88F71D344997F00212BDD9EA4B3E253.tmp' to '../../../../../UnrealProjects/Inzynierka/Inzynierka/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/3O/JF7ONW4XEKSN6G8CQJX2HI.uasset'
+[2026.04.30-19.35.21:891][306]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/JV/O2AQUGTDRNFRSGMBPM1AU4
+[2026.04.30-19.35.21:891][306]LogSavePackage: Moving '../../../../../UnrealProjects/Inzynierka/Inzynierka/Saved/O2AQUGTDRNFRSGMBPM1AU447BE9826491F7A5E266F79B8D25CFE25.tmp' to '../../../../../UnrealProjects/Inzynierka/Inzynierka/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/JV/O2AQUGTDRNFRSGMBPM1AU4.uasset'
+[2026.04.30-19.35.22:078][306]LogFileHelpers: InternalPromptForCheckoutAndSave took 237.482 ms (total: 1.88 sec)
+[2026.04.30-19.35.22:097][306]LogContentValidation: Display: Starting to validate 2 assets
+[2026.04.30-19.35.22:097][306]LogContentValidation: Enabled validators:
+[2026.04.30-19.35.22:097][306]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.30-19.35.22:097][306]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.30-19.35.22:097][306]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.30-19.35.22:098][306]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.30-19.35.22:098][306]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.30-19.35.22:098][306]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.30-19.35.22:098][306]AssetCheck: /Game/ThirdPerson/Lvl_ThirdPerson Validating asset
+[2026.04.30-19.35.22:104][306]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
