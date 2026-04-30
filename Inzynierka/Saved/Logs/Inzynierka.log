@@ -1628,3 +1628,49 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.04.30-19.53.33:436][445]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.04.30-19.53.33:436][445]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.04.30-19.53.33:436][445]AssetCheck: /Game/Enemies/AI/BT_Enemy_Base Validating asset
+[2026.04.30-19.54.08:675][436]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/Enemies/AI/BT_Enemy_Base.BT_Enemy_Base
+[2026.04.30-19.54.10:433][604]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 719.743530
+[2026.04.30-19.54.10:617][626]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.30-19.54.10:617][627]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 719.918457, Update Interval: 315.657837
+[2026.04.30-19.54.10:765][644]LogSlate: Window 'BT_Enemy_Base' being destroyed
+[2026.04.30-19.59.03:449][202]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2026.04.30-19.59.03:461][203]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2026.04.30-19.59.03:580][212]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2026.04.30-19.59.04:542][322]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2026.04.30-19.59.32:238][939]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.30-19.59.32:266][939]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemies/AI/BT_Enemy_Base] ([1] browsable assets)...
+[2026.04.30-19.59.32:266][939]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/AI/BT_Enemy_Base]
+[2026.04.30-19.59.32:266][939]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/AI/BT_Enemy_Base" FILE="../../../../../UnrealProjects/Inzynierka/Inzynierka/Content/Enemies/AI/BT_Enemy_Base.uasset" SILENT=true
+[2026.04.30-19.59.32:273][939]LogSavePackage: Moving output files for package: /Game/Enemies/AI/BT_Enemy_Base
+[2026.04.30-19.59.32:274][939]LogSavePackage: Moving '../../../../../UnrealProjects/Inzynierka/Inzynierka/Saved/BT_Enemy_Base55AA7A3F4ABAE9FBA5EDC6BE8D9625E2.tmp' to '../../../../../UnrealProjects/Inzynierka/Inzynierka/Content/Enemies/AI/BT_Enemy_Base.uasset'
+[2026.04.30-19.59.32:279][939]LogFileHelpers: InternalPromptForCheckoutAndSave took 40.465 ms (total: 1.18 sec)
+[2026.04.30-19.59.32:308][939]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.30-19.59.32:308][939]LogContentValidation: Enabled validators:
+[2026.04.30-19.59.32:308][939]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.30-19.59.32:308][939]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.30-19.59.32:308][939]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.30-19.59.32:308][939]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.30-19.59.32:308][939]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.30-19.59.32:308][939]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.30-19.59.32:308][939]AssetCheck: /Game/Enemies/AI/BT_Enemy_Base Validating asset
+[2026.04.30-19.59.32:660][981]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1041.968018
+[2026.04.30-19.59.32:843][  3]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.04.30-19.59.32:843][  4]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1042.143066, Update Interval: 301.565613
+[2026.04.30-19.59.35:839][353]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2026.04.30-19.59.37:469][353]LogSlate: Window 'Save Content' being destroyed
+[2026.04.30-19.59.37:565][353]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.30-19.59.37:592][353]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemies/AI/BB_Enemy_Base] ([1] browsable assets)...
+[2026.04.30-19.59.37:592][353]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/AI/BB_Enemy_Base]
+[2026.04.30-19.59.37:592][353]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/AI/BB_Enemy_Base" FILE="../../../../../UnrealProjects/Inzynierka/Inzynierka/Content/Enemies/AI/BB_Enemy_Base.uasset" SILENT=true
+[2026.04.30-19.59.37:597][353]LogSavePackage: Moving output files for package: /Game/Enemies/AI/BB_Enemy_Base
+[2026.04.30-19.59.37:598][353]LogSavePackage: Moving '../../../../../UnrealProjects/Inzynierka/Inzynierka/Saved/BB_Enemy_Base8970123248629BEF67F07EB92DF3F8DB.tmp' to '../../../../../UnrealProjects/Inzynierka/Inzynierka/Content/Enemies/AI/BB_Enemy_Base.uasset'
+[2026.04.30-19.59.37:603][353]LogFileHelpers: InternalPromptForCheckoutAndSave took 38.341 ms (total: 1.22 sec)
+[2026.04.30-19.59.37:636][353]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.30-19.59.37:636][353]LogContentValidation: Enabled validators:
+[2026.04.30-19.59.37:636][353]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.30-19.59.37:636][353]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.30-19.59.37:636][353]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.30-19.59.37:636][353]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.30-19.59.37:636][353]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.30-19.59.37:636][353]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.30-19.59.37:636][353]AssetCheck: /Game/Enemies/AI/BB_Enemy_Base Validating asset
