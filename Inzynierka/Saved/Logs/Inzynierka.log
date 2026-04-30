@@ -1185,3 +1185,42 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.04.30-19.44.29:608][230]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.04.30-19.44.29:608][230]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.04.30-19.44.29:608][230]AssetCheck: /Game/Enemies/BP_Enemy_Base Validating asset
+[2026.04.30-19.45.31:297][372]LogContentBrowser: Deferred new asset file creation: sword-slash_Montage
+[2026.04.30-19.45.31:308][372]LogContentBrowser: Creating deferred item: sword-slash_Montage
+[2026.04.30-19.45.31:316][373]LogContentBrowser: Renaming the item being created (Deferred Item: sword-slash_Montage).
+[2026.04.30-19.45.40:110][428]LogContentBrowser: Attempting asset rename: sword-slash_Montage -> Montage_sword_slash
+[2026.04.30-19.45.40:205][428]LogContentBrowser: End creating deferred item sword-slash_Montage
+[2026.04.30-19.46.03:950][494]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.30-19.46.03:975][494]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Montage_sword_slash] ([1] browsable assets)...
+[2026.04.30-19.46.04:009][494]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/Animations/Montage_sword_slash.Montage_sword_slash]
+[2026.04.30-19.46.04:009][494]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Montage_sword_slash]
+[2026.04.30-19.46.04:009][494]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Montage_sword_slash" FILE="../../../../../UnrealProjects/Inzynierka/Inzynierka/Content/Animations/Montage_sword_slash.uasset" SILENT=true
+[2026.04.30-19.46.04:016][494]LogSavePackage: Moving output files for package: /Game/Animations/Montage_sword_slash
+[2026.04.30-19.46.04:016][494]LogSavePackage: Moving '../../../../../UnrealProjects/Inzynierka/Inzynierka/Saved/Montage_sword_slash2F72EEA544EA504D6585FEBB088A7407.tmp' to '../../../../../UnrealProjects/Inzynierka/Inzynierka/Content/Animations/Montage_sword_slash.uasset'
+[2026.04.30-19.46.04:161][494]LogFileHelpers: InternalPromptForCheckoutAndSave took 211.089 ms (total: 308.595 ms)
+[2026.04.30-19.46.04:308][494]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.30-19.46.04:308][494]LogContentValidation: Enabled validators:
+[2026.04.30-19.46.04:308][494]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.30-19.46.04:308][494]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.30-19.46.04:308][494]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.30-19.46.04:308][494]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.30-19.46.04:308][494]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.30-19.46.04:308][494]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.30-19.46.04:308][494]AssetCheck: /Game/Animations/Montage_sword_slash Validating asset
+[2026.04.30-19.46.19:627][345]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.04.30-19.46.19:657][345]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Enemies/BP_Enemy_Base] ([2] browsable assets)...
+[2026.04.30-19.46.19:689][345]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemies/BP_Enemy_Base.BP_Enemy_Base]
+[2026.04.30-19.46.19:689][345]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/BP_Enemy_Base]
+[2026.04.30-19.46.19:689][345]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/BP_Enemy_Base" FILE="../../../../../UnrealProjects/Inzynierka/Inzynierka/Content/Enemies/BP_Enemy_Base.uasset" SILENT=true
+[2026.04.30-19.46.19:701][345]LogSavePackage: Moving output files for package: /Game/Enemies/BP_Enemy_Base
+[2026.04.30-19.46.19:701][345]LogSavePackage: Moving '../../../../../UnrealProjects/Inzynierka/Inzynierka/Saved/BP_Enemy_Base4C6B3A77415FFAB92347A7A7E6209ACA.tmp' to '../../../../../UnrealProjects/Inzynierka/Inzynierka/Content/Enemies/BP_Enemy_Base.uasset'
+[2026.04.30-19.46.19:708][345]LogFileHelpers: InternalPromptForCheckoutAndSave took 80.982 ms (total: 389.577 ms)
+[2026.04.30-19.46.19:741][345]LogContentValidation: Display: Starting to validate 1 assets
+[2026.04.30-19.46.19:742][345]LogContentValidation: Enabled validators:
+[2026.04.30-19.46.19:742][345]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.04.30-19.46.19:742][345]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.04.30-19.46.19:742][345]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.04.30-19.46.19:742][345]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.04.30-19.46.19:742][345]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.04.30-19.46.19:742][345]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.04.30-19.46.19:742][345]AssetCheck: /Game/Enemies/BP_Enemy_Base Validating asset
