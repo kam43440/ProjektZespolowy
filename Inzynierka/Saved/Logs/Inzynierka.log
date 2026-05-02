@@ -2945,3 +2945,277 @@ Scale3D: 1.000000 1.000000 1.000000
 [2026.05.02-19.37.53:049][225]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23, StreamState=2
 [2026.05.02-19.37.53:054][225]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
 [2026.05.02-19.37.53:098][226]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2026.05.02-19.40.50:905][445]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2408.816895
+[2026.05.02-19.40.51:905][448]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.02-19.40.51:905][448]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2409.484375, Update Interval: 320.513916
+[2026.05.02-19.44.30:660][179]LogSlate: Took 0.005981 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2026.05.02-19.44.40:805][218]LogUObjectGlobals: Warning: LoadPackage can't find package /.
+[2026.05.02-19.44.40:805][218]LogUObjectGlobals: Warning: LoadPackage can't find package /.
+[2026.05.02-19.44.40:805][218]LogUObjectGlobals: Warning: LoadPackage can't find package /.
+[2026.05.02-19.44.40:805][218]LogUObjectGlobals: Warning: LoadPackage can't find package /.
+[2026.05.02-19.44.40:885][218]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.02-19.44.40:885][218]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemies/AI/Tasks/BTT_FocusTarget] ([2] browsable assets)...
+[2026.05.02-19.44.40:885][218]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/AI/Tasks/BTT_FocusTarget]
+[2026.05.02-19.44.40:885][218]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/AI/Tasks/BTT_FocusTarget" FILE="../../../../../UnrealProjects/Inzynierka/Inzynierka/Content/Enemies/AI/Tasks/BTT_FocusTarget.uasset" SILENT=true
+[2026.05.02-19.44.40:894][218]LogSavePackage: Moving output files for package: /Game/Enemies/AI/Tasks/BTT_FocusTarget
+[2026.05.02-19.44.40:894][218]LogSavePackage: Moving '../../../../../UnrealProjects/Inzynierka/Inzynierka/Saved/BTT_FocusTarget8DDFCF884B6FB9FA6B70838A23720947.tmp' to '../../../../../UnrealProjects/Inzynierka/Inzynierka/Content/Enemies/AI/Tasks/BTT_FocusTarget.uasset'
+[2026.05.02-19.44.40:897][218]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Enemies/AI/Tasks/BTT_FocusTarget.
+[2026.05.02-19.44.40:897][218]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemies/AI/BTT_FocusTarget] ([5] browsable assets)...
+[2026.05.02-19.44.40:897][218]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/AI/BTT_FocusTarget]
+[2026.05.02-19.44.40:897][218]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/AI/BTT_FocusTarget" FILE="../../../../../UnrealProjects/Inzynierka/Inzynierka/Content/Enemies/AI/BTT_FocusTarget.uasset" SILENT=true
+[2026.05.02-19.44.40:902][218]LogSavePackage: Moving output files for package: /Game/Enemies/AI/BTT_FocusTarget
+[2026.05.02-19.44.40:903][218]LogSavePackage: Moving '../../../../../UnrealProjects/Inzynierka/Inzynierka/Saved/BTT_FocusTargetB32A5834454F297CC9D3549D4F975AE3.tmp' to '../../../../../UnrealProjects/Inzynierka/Inzynierka/Content/Enemies/AI/BTT_FocusTarget.uasset'
+[2026.05.02-19.44.41:024][218]LogFileHelpers: InternalPromptForCheckoutAndSave took 138.807 ms (total: 1.00 sec)
+[2026.05.02-19.44.41:044][218]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2026.05.02-19.44.41:045][218]LogContentValidation: Display: Starting to validate 4 assets
+[2026.05.02-19.44.41:045][218]LogContentValidation: Enabled validators:
+[2026.05.02-19.44.41:045][218]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.02-19.44.41:045][218]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.02-19.44.41:045][218]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.02-19.44.41:045][218]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.02-19.44.41:045][218]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.02-19.44.41:045][218]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.02-19.44.41:045][218]AssetCheck: /Game/Enemies/AI/Tasks/BTT_FocusTarget Validating asset
+[2026.05.02-19.44.41:045][218]AssetCheck: /Game/Enemies/AI/BTT_FocusTarget Validating asset
+[2026.05.02-19.44.41:045][218]AssetCheck: /Game/Enemies/AI/BTT_FocusTarget Validating asset
+[2026.05.02-19.44.41:045][218]AssetCheck: /Game/Enemies/AI/BTT_FocusTarget Validating asset
+[2026.05.02-19.45.33:741][284]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.05.02-19.45.33:746][284]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.05.02-19.45.33:746][284]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.05.02-19.45.33:748][284]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 691 us (total: 29.487 ms)
+[2026.05.02-19.45.33:762][284]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.05.02-19.45.33:762][284]LogPlayLevel: Display: Creating online subsystem for client :Context_32
+[2026.05.02-19.45.33:765][284]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2026.05.02-19.45.33:780][285]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.05.02-19.45.33:786][285]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.05.02-19.45.33:788][285]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.036 ms (total: 23.317 ms)
+[2026.05.02-19.45.33:788][285]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006860s)
+[2026.05.02-19.45.33:788][285]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.006887s)
+[2026.05.02-19.45.33:822][285]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2026.05.02-19.45.33:825][285]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.05.02-19.45.33:826][285]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.05.02-19.45.33:826][285]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.05.02-19.45.33:826][285]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.05.02-19.45.33:826][285]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.05.02-19.45.33:828][285]LogWorldPartition: Display: WorldPartition initialize took 1.344 ms (total: 471.425 ms)
+[2026.05.02-19.45.33:828][285]LogPlayLevel: PIE: World Init took: (0.002705s)
+[2026.05.02-19.45.33:829][285]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2026.05.02-19.45.33:829][285]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.02-19.45.33:829][285]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.02-19.45.33:829][285]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.02-19.45.33:829][285]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.02-19.45.33:829][285]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.02-19.45.33:829][285]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.02-19.45.33:829][285]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.02-19.45.33:829][285]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.02-19.45.33:829][285]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.02-19.45.33:829][285]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.02-19.45.33:829][285]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.02-19.45.33:831][285]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.02-19.45.33:852][285]LogAudioMixer: Display: Using Audio Hardware Device Głośniki (Logitech PRO X Wireless Gaming Headset)
+[2026.05.02-19.45.33:853][285]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.02-19.45.33:853][285]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.02-19.45.33:853][285]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.02-19.45.33:853][285]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2026.05.02-19.45.33:853][285]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=24
+[2026.05.02-19.45.33:854][285]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2026.05.02-19.45.33:854][285]LogInit: FAudioDevice initialized with ID 24.
+[2026.05.02-19.45.33:854][285]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2026.05.02-19.45.33:854][285]LogAudio: Display: Audio Device (ID: 24) registered with world 'Lvl_ThirdPerson'.
+[2026.05.02-19.45.33:854][285]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2026.05.02-19.45.33:857][285]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.05.02-19.45.33:860][285]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2026.05.02-21.45.33
+[2026.05.02-19.45.33:860][285]LogWorld: Bringing up level for play took: 0.003452
+[2026.05.02-19.45.33:863][285]PIE: Server logged in
+[2026.05.02-19.45.33:865][285]PIE: Play in editor total start time 0,119 seconds.
+[2026.05.02-19.45.33:906][286]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.05.02-19.45.47:713][935]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.02-19.45.47:713][935]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.05.02-19.45.47:713][935]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.05.02-19.45.47:713][935]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.05.02-19.45.47:714][935]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.02-19.45.47:714][935]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.05.02-19.45.47:717][935]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.02-19.45.47:721][935]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.02-19.45.47:738][935]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.02-19.45.47:738][935]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2026.05.02-19.45.47:738][935]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24, StreamState=4
+[2026.05.02-19.45.47:740][935]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24, StreamState=2
+[2026.05.02-19.45.47:745][935]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2026.05.02-19.45.47:826][936]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2026.05.02-19.46.35:872][612]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Manny_Simple.SKM_Manny_Simple
+[2026.05.02-19.46.35:929][612]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2026.05.02-19.46.35:935][612]LogStreaming: Display: FlushAsyncLoading(597): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.02-19.46.36:008][612]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.05.02-19.46.51:613][766]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2769.522217
+[2026.05.02-19.46.52:613][769]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.02-19.46.52:613][769]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2770.189697, Update Interval: 353.380524
+[2026.05.02-19.46.53:841][888]LogStreaming: Display: FlushAsyncLoading(603): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.02-19.47.03:367][930]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Characters/Mannequins/Meshes/SK_Mannequin.SK_Mannequin
+[2026.05.02-19.47.03:367][930]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2026.05.02-19.47.03:372][930]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.05.02-19.47.03:608][930]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2026.05.02-19.47.03:921][930]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2026.05.02-19.47.53:967][773]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2026.05.02-19.47.53:970][773]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.067
+[2026.05.02-19.47.53:971][773]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/Mannequins/Meshes/SK_Mannequin] ([1] browsable assets)...
+[2026.05.02-19.47.53:971][773]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2026.05.02-19.47.54:018][773]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/Characters/Mannequins/Meshes/SK_Mannequin.SK_Mannequin]
+[2026.05.02-19.47.54:018][773]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Meshes/SK_Mannequin]
+[2026.05.02-19.47.54:034][773]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Mannequins/Meshes/SK_Mannequin_Auto4
+[2026.05.02-19.47.54:034][773]LogSavePackage: Moving '../../../../../UnrealProjects/Inzynierka/Inzynierka/Saved/SK_Mannequin_Auto46E3586284C6DDD4DD6FF3585E5E0FAF6.tmp' to '../../../../../UnrealProjects/Inzynierka/Inzynierka/Saved/Autosaves/Game/Characters/Mannequins/Meshes/SK_Mannequin_Auto4.uasset'
+[2026.05.02-19.47.54:035][773]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemies/AI/BT_Enemy_Base] ([1] browsable assets)...
+[2026.05.02-19.47.54:035][773]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/AI/BT_Enemy_Base]
+[2026.05.02-19.47.54:040][773]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Enemies/AI/BT_Enemy_Base_Auto4
+[2026.05.02-19.47.54:040][773]LogSavePackage: Moving '../../../../../UnrealProjects/Inzynierka/Inzynierka/Saved/BT_Enemy_Base_Auto4FA4FF91D45E56D1299B630B669263EAD.tmp' to '../../../../../UnrealProjects/Inzynierka/Inzynierka/Saved/Autosaves/Game/Enemies/AI/BT_Enemy_Base_Auto4.uasset'
+[2026.05.02-19.47.54:041][773]LogFileHelpers: Auto-saving content packages took 0.071
+[2026.05.02-19.48.27:209][201]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.02-19.48.27:240][201]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Mannequins/Meshes/SK_Mannequin] ([1] browsable assets)...
+[2026.05.02-19.48.27:240][201]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Mannequins/Meshes/SK_Mannequin]
+[2026.05.02-19.48.27:253][201]LogSavePackage: Moving output files for package: /Game/Characters/Mannequins/Meshes/SK_Mannequin
+[2026.05.02-19.48.27:254][201]LogSavePackage: Moving '../../../../../UnrealProjects/Inzynierka/Inzynierka/Saved/SK_Mannequin476825FF418A2776D60B9FAC8C4C92A0.tmp' to '../../../../../UnrealProjects/Inzynierka/Inzynierka/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset'
+[2026.05.02-19.48.27:263][201]LogFileHelpers: InternalPromptForCheckoutAndSave took 54.603 ms (total: 1.06 sec)
+[2026.05.02-19.48.27:286][201]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.02-19.48.27:286][201]LogContentValidation: Enabled validators:
+[2026.05.02-19.48.27:286][201]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.02-19.48.27:286][201]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.02-19.48.27:286][201]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.02-19.48.27:286][201]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.02-19.48.27:286][201]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.02-19.48.27:286][201]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.02-19.48.27:286][201]AssetCheck: /Game/Characters/Mannequins/Meshes/SK_Mannequin Validating asset
+[2026.05.02-19.48.29:166][409]LogSlate: Window 'SK_Mannequin' being destroyed
+[2026.05.02-19.48.29:172][409]LogSlate: Window 'SK_Mannequin' being destroyed
+[2026.05.02-19.48.29:236][409]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2026.05.02-19.48.29:236][409]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.02-19.48.29:261][409]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2026.05.02-19.48.29:261][409]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.02-19.48.29:289][409]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2026.05.02-19.48.29:289][409]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.02-19.48.29:329][409]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2026.05.02-19.48.29:984][483]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2026.05.02-19.48.35:162][483]LogSlate: Window 'Save Content' being destroyed
+[2026.05.02-19.48.35:359][483]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.02-19.48.35:386][483]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemies/AI/BT_Enemy_Base] ([1] browsable assets)...
+[2026.05.02-19.48.35:386][483]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/AI/BT_Enemy_Base]
+[2026.05.02-19.48.35:386][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/AI/BT_Enemy_Base" FILE="../../../../../UnrealProjects/Inzynierka/Inzynierka/Content/Enemies/AI/BT_Enemy_Base.uasset" SILENT=true
+[2026.05.02-19.48.35:392][483]LogSavePackage: Moving output files for package: /Game/Enemies/AI/BT_Enemy_Base
+[2026.05.02-19.48.35:394][483]LogSavePackage: Moving '../../../../../UnrealProjects/Inzynierka/Inzynierka/Saved/BT_Enemy_Base5F0B8BC54C5148425730AE94DCFE598E.tmp' to '../../../../../UnrealProjects/Inzynierka/Inzynierka/Content/Enemies/AI/BT_Enemy_Base.uasset'
+[2026.05.02-19.48.35:400][483]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/HY/Q7CPP7VHOXBAMAJI90W626
+[2026.05.02-19.48.35:400][483]LogSavePackage: Moving '../../../../../UnrealProjects/Inzynierka/Inzynierka/Saved/Q7CPP7VHOXBAMAJI90W626727BB8D74C498B0375DCBAAC9EBC7C64.tmp' to '../../../../../UnrealProjects/Inzynierka/Inzynierka/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/HY/Q7CPP7VHOXBAMAJI90W626.uasset'
+[2026.05.02-19.48.35:405][483]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/3Q/LN9NZEBGRAHKOQ0TNMLS8Q
+[2026.05.02-19.48.35:405][483]LogSavePackage: Moving '../../../../../UnrealProjects/Inzynierka/Inzynierka/Saved/LN9NZEBGRAHKOQ0TNMLS8QD57E7838467B335854DACEA8D8ECC640.tmp' to '../../../../../UnrealProjects/Inzynierka/Inzynierka/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/3Q/LN9NZEBGRAHKOQ0TNMLS8Q.uasset'
+[2026.05.02-19.48.35:413][483]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/6G/Z168IEPJSX5PL3RIKAAI2L
+[2026.05.02-19.48.35:413][483]LogSavePackage: Moving '../../../../../UnrealProjects/Inzynierka/Inzynierka/Saved/Z168IEPJSX5PL3RIKAAI2L495E183141F0BD3CC242A2BA381DC568.tmp' to '../../../../../UnrealProjects/Inzynierka/Inzynierka/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/6G/Z168IEPJSX5PL3RIKAAI2L.uasset'
+[2026.05.02-19.48.35:576][483]LogFileHelpers: InternalPromptForCheckoutAndSave took 216.880 ms (total: 1.28 sec)
+[2026.05.02-19.48.35:602][483]LogStall: Shutdown...
+[2026.05.02-19.48.35:602][483]LogStall: Shutdown complete.
+[2026.05.02-19.48.35:632][483]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.05.02-19.48.35:632][483]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.02-19.48.35:705][483]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.05.02-19.48.35:705][483]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.05.02-19.48.35:705][483]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.02-19.48.35:745][483]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.05.02-19.48.35:745][483]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.02-19.48.35:775][483]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.05.02-19.48.35:775][483]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.02-19.48.35:807][483]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2026.05.02-19.48.35:807][483]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.02-19.48.35:840][483]LogSlate: Window 'Inzynierka - Unreal Editor' being destroyed
+[2026.05.02-19.48.35:954][483]LogContentValidation: Display: Starting to validate 4 assets
+[2026.05.02-19.48.35:954][483]LogContentValidation: Enabled validators:
+[2026.05.02-19.48.35:954][483]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.02-19.48.35:954][483]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.02-19.48.35:954][483]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.02-19.48.35:955][483]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.02-19.48.35:955][483]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.02-19.48.35:955][483]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.02-19.48.35:955][483]AssetCheck: /Game/Enemies/AI/BT_Enemy_Base Validating asset
+[2026.05.02-19.48.35:955][483]AssetCheck: /Game/ThirdPerson/Lvl_ThirdPerson Validating asset
+[2026.05.02-19.48.35:988][483]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2026.05.02-19.48.36:009][483]Cmd: QUIT_EDITOR
+[2026.05.02-19.48.36:009][484]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.05.02-19.48.36:014][484]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.05.02-19.48.36:014][484]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.05.02-19.48.36:014][484]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.05.02-19.48.36:015][484]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.05.02-19.48.36:015][484]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.05.02-19.48.36:016][484]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.02-19.48.36:016][484]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.05.02-19.48.36:021][484]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.05.02-19.48.36:021][484]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.05.02-19.48.36:022][484]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.05.02-19.48.36:028][484]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2026.05.02-19.48.36:028][484]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.02-19.48.36:031][484]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2026.05.02-19.48.36:031][484]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.02-19.48.36:034][484]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2026.05.02-19.48.36:034][484]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.02-19.48.36:035][484]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2026.05.02-19.48.36:035][484]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.02-19.48.36:038][484]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2026.05.02-19.48.36:038][484]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.02-19.48.36:040][484]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2026.05.02-19.48.36:040][484]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.02-19.48.36:041][484]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.05.02-19.48.36:041][484]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.05.02-19.48.36:050][484]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.05.02-19.48.36:716][484]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.05.02-19.48.36:716][484]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.05.02-19.48.36:716][484]LogAudio: Display: Audio Device unregistered from world 'Lvl_ThirdPerson'.
+[2026.05.02-19.48.36:716][484]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.05.02-19.48.36:716][484]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2026.05.02-19.48.36:718][484]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2026.05.02-19.48.36:728][484]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.05.02-19.48.36:728][484]LogAudio: Display: Audio Device Manager Shutdown
+[2026.05.02-19.48.36:728][484]LogWindowsTextInputMethodSystem: Activated input method: Polski (Polska) - (Keyboard).
+[2026.05.02-19.48.36:732][484]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.05.02-19.48.36:736][484]LogExit: Preparing to exit.
+[2026.05.02-19.48.36:762][484]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2026.05.02-19.48.36:764][484]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.02-19.48.36:764][484]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.02-19.48.36:765][484]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.02-19.48.36:765][484]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.02-19.48.36:765][484]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.02-19.48.36:765][484]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.02-19.48.36:765][484]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.02-19.48.36:765][484]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.02-19.48.36:765][484]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.02-19.48.36:765][484]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.02-19.48.36:765][484]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.02-19.48.36:765][484]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.02-19.48.36:765][484]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.02-19.48.36:765][484]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.02-19.48.36:765][484]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.02-19.48.36:765][484]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.02-19.48.36:765][484]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.02-19.48.36:765][484]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.02-19.48.36:765][484]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.02-19.48.36:765][484]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.02-19.48.36:765][484]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.05.02-19.48.37:326][484]LogEditorDataStorage: Deinitializing
+[2026.05.02-19.48.37:455][484]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.05.02-19.48.37:471][484]LogExit: Editor shut down
+[2026.05.02-19.48.37:476][484]LogExit: Transaction tracking system shut down
+[2026.05.02-19.48.37:684][484]LogExit: Object subsystem successfully closed.
+[2026.05.02-19.48.37:784][484]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.05.02-19.48.37:832][484]LogMemoryProfiler: Shutdown
+[2026.05.02-19.48.37:832][484]LogNetworkingProfiler: Shutdown
+[2026.05.02-19.48.37:832][484]LoadingProfiler: Shutdown
+[2026.05.02-19.48.37:832][484]LogTimingProfiler: Shutdown
+[2026.05.02-19.48.37:832][484]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.05.02-19.48.37:832][484]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.05.02-19.48.38:147][484]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.05.02-19.48.38:150][484]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.05.02-19.48.38:150][484]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7203E0DD-4AB2-ECB2-FFF0-65A6B7D20BDE%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=c0d662aa4b1d8c4c7488f4ab2b06100c%7C2743705b7ba94a9d95508022eb0e9fd0%7C6e41b20b-e0d2-4353-a3f7-5ed1ff364d84&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.05.02-19.48.38:683][484]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.05.02-19.48.38:683][484]LogNFORDenoise: NFORDenoise function shutting down
+[2026.05.02-19.48.38:683][484]RenderDocPlugin: plugin has been unloaded.
+[2026.05.02-19.48.38:699][484]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2026.05.02-19.48.38:699][484]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2026.05.02-19.48.38:699][484]LogPakFile: Destroying PakPlatformFile
+[2026.05.02-19.48.38:900][484]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.05.02-19.48.38:929][484]LogExit: Exiting.
+[2026.05.02-19.48.38:964][484]Log file closed, 05/02/26 21:48:38
