@@ -2164,3 +2164,60 @@ FPackageName: Skipped package /Game/StarterContent/Materials/M_Metal_Gold has a 
 [2026.05.03-14.23.16:511][ 40]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=2
 [2026.05.03-14.23.16:517][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
 [2026.05.03-14.23.16:617][ 41]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2026.05.03-14.25.43:137][536]LogSlate: Window 'Save Asset As' being destroyed
+[2026.05.03-14.25.43:146][536]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Enemies/AI/Decorators/BTD_HasPatrolRoute.BTD_HasPatrolRoute
+[2026.05.03-14.25.43:146][536]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2026.05.03-14.25.43:207][536]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Enemies/AI/Decorators/BTD_HasPatrolRoute.
+[2026.05.03-14.26.30:822][320]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2026.05.03-14.26.48:806][795]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2026.05.03-14.26.49:640][891]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2026.05.03-14.26.50:564][891]LogSlate: Window 'Save Content' being destroyed
+[2026.05.03-14.26.50:693][891]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.03-14.26.50:722][891]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemies/AI/Decorators/BTD_HasPatrolRoute] ([2] browsable assets)...
+[2026.05.03-14.26.50:722][891]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/AI/Decorators/BTD_HasPatrolRoute]
+[2026.05.03-14.26.50:722][891]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/AI/Decorators/BTD_HasPatrolRoute" FILE="../../../../../UnrealProjects/Inzynierka/Inzynierka/Content/Enemies/AI/Decorators/BTD_HasPatrolRoute.uasset" SILENT=true
+[2026.05.03-14.26.50:729][891]LogSavePackage: Moving output files for package: /Game/Enemies/AI/Decorators/BTD_HasPatrolRoute
+[2026.05.03-14.26.50:729][891]LogSavePackage: Moving '../../../../../UnrealProjects/Inzynierka/Inzynierka/Saved/BTD_HasPatrolRoute9ABA97E04FCD96DA3304C58EEB6150E5.tmp' to '../../../../../UnrealProjects/Inzynierka/Inzynierka/Content/Enemies/AI/Decorators/BTD_HasPatrolRoute.uasset'
+[2026.05.03-14.26.50:732][891]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Enemies/AI/Decorators/BTD_HasPatrolRoute.
+[2026.05.03-14.26.50:732][891]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemies/AI/BT_Enemy_Base] ([1] browsable assets)...
+[2026.05.03-14.26.50:733][891]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/AI/BT_Enemy_Base]
+[2026.05.03-14.26.50:733][891]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/AI/BT_Enemy_Base" FILE="../../../../../UnrealProjects/Inzynierka/Inzynierka/Content/Enemies/AI/BT_Enemy_Base.uasset" SILENT=true
+[2026.05.03-14.26.50:739][891]LogSavePackage: Moving output files for package: /Game/Enemies/AI/BT_Enemy_Base
+[2026.05.03-14.26.50:739][891]LogSavePackage: Moving '../../../../../UnrealProjects/Inzynierka/Inzynierka/Saved/BT_Enemy_Base5DF7AD384B442CA87D4B93B3745935E2.tmp' to '../../../../../UnrealProjects/Inzynierka/Inzynierka/Content/Enemies/AI/BT_Enemy_Base.uasset'
+[2026.05.03-14.26.50:879][891]LogFileHelpers: InternalPromptForCheckoutAndSave took 186.093 ms (total: 2.61 sec)
+[2026.05.03-14.26.50:916][891]LogContentValidation: Display: Starting to validate 2 assets
+[2026.05.03-14.26.50:916][891]LogContentValidation: Enabled validators:
+[2026.05.03-14.26.50:916][891]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.03-14.26.50:916][891]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.03-14.26.50:916][891]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.03-14.26.50:916][891]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.03-14.26.50:916][891]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.03-14.26.50:916][891]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.03-14.26.50:916][891]AssetCheck: /Game/Enemies/AI/Decorators/BTD_HasPatrolRoute Validating asset
+[2026.05.03-14.26.50:916][891]AssetCheck: /Game/Enemies/AI/BT_Enemy_Base Validating asset
+[2026.05.03-14.27.30:858][543]LogStreaming: Display: FlushAsyncLoading(601): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.03-14.28.54:816][ 58]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4655.825684
+[2026.05.03-14.28.55:817][ 61]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.03-14.28.55:817][ 61]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4656.493164, Update Interval: 347.636353
+[2026.05.03-14.29.03:986][212]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.03-14.29.04:019][212]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemies/AI/BT_Enemy_Base] ([1] browsable assets)...
+[2026.05.03-14.29.04:019][212]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/AI/BT_Enemy_Base]
+[2026.05.03-14.29.04:019][212]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/AI/BT_Enemy_Base" FILE="../../../../../UnrealProjects/Inzynierka/Inzynierka/Content/Enemies/AI/BT_Enemy_Base.uasset" SILENT=true
+[2026.05.03-14.29.04:027][212]LogSavePackage: Moving output files for package: /Game/Enemies/AI/BT_Enemy_Base
+[2026.05.03-14.29.04:027][212]LogSavePackage: Moving '../../../../../UnrealProjects/Inzynierka/Inzynierka/Saved/BT_Enemy_Base0342310D447252B71B9A94B95D10C191.tmp' to '../../../../../UnrealProjects/Inzynierka/Inzynierka/Content/Enemies/AI/BT_Enemy_Base.uasset'
+[2026.05.03-14.29.04:033][212]LogFileHelpers: InternalPromptForCheckoutAndSave took 47.356 ms (total: 2.66 sec)
+[2026.05.03-14.29.04:066][212]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.03-14.29.04:066][212]LogContentValidation: Enabled validators:
+[2026.05.03-14.29.04:066][212]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.03-14.29.04:066][212]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.03-14.29.04:066][212]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.03-14.29.04:066][212]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.03-14.29.04:066][212]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.03-14.29.04:066][212]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.03-14.29.04:066][212]AssetCheck: /Game/Enemies/AI/BT_Enemy_Base Validating asset
+[2026.05.03-14.29.50:151][251]LogContentBrowser: Deferred new asset file creation: NewUserDefinedEnum
+[2026.05.03-14.29.50:159][251]LogContentBrowser: Creating deferred item: NewUserDefinedEnum
+[2026.05.03-14.29.50:165][252]LogContentBrowser: Renaming the item being created (Deferred Item: NewUserDefinedEnum).
+[2026.05.03-14.30.00:371][477]LogContentBrowser: Attempting asset rename: NewUserDefinedEnum -> E_AiStates
+[2026.05.03-14.30.00:456][477]LogContentBrowser: End creating deferred item NewUserDefinedEnum
+[2026.05.03-14.30.03:446][599]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/Enemies/AI/Enums/E_AiStates.E_AiStates
