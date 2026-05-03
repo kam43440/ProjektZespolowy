@@ -2221,3 +2221,274 @@ FPackageName: Skipped package /Game/StarterContent/Materials/M_Metal_Gold has a 
 [2026.05.03-14.30.00:371][477]LogContentBrowser: Attempting asset rename: NewUserDefinedEnum -> E_AiStates
 [2026.05.03-14.30.00:456][477]LogContentBrowser: End creating deferred item NewUserDefinedEnum
 [2026.05.03-14.30.03:446][599]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/Enemies/AI/Enums/E_AiStates.E_AiStates
+[2026.05.03-14.31.48:397][372]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2026.05.03-14.31.49:167][372]LogSlate: Window 'Save Content' being destroyed
+[2026.05.03-14.31.49:296][372]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.03-14.31.49:329][372]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemies/AI/BT_Enemy_Base] ([1] browsable assets)...
+[2026.05.03-14.31.49:329][372]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/AI/BT_Enemy_Base]
+[2026.05.03-14.31.49:329][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/AI/BT_Enemy_Base" FILE="../../../../../UnrealProjects/Inzynierka/Inzynierka/Content/Enemies/AI/BT_Enemy_Base.uasset" SILENT=true
+[2026.05.03-14.31.49:337][372]LogSavePackage: Moving output files for package: /Game/Enemies/AI/BT_Enemy_Base
+[2026.05.03-14.31.49:337][372]LogSavePackage: Moving '../../../../../UnrealProjects/Inzynierka/Inzynierka/Saved/BT_Enemy_Base6AD68DB447607B300CD6D692F48F7427.tmp' to '../../../../../UnrealProjects/Inzynierka/Inzynierka/Content/Enemies/AI/BT_Enemy_Base.uasset'
+[2026.05.03-14.31.49:338][372]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemies/AI/Enums/E_AiStates] ([1] browsable assets)...
+[2026.05.03-14.31.49:339][372]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/AI/Enums/E_AiStates]
+[2026.05.03-14.31.49:339][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/AI/Enums/E_AiStates" FILE="../../../../../UnrealProjects/Inzynierka/Inzynierka/Content/Enemies/AI/Enums/E_AiStates.uasset" SILENT=true
+[2026.05.03-14.31.49:343][372]LogSavePackage: Moving output files for package: /Game/Enemies/AI/Enums/E_AiStates
+[2026.05.03-14.31.49:343][372]LogSavePackage: Moving '../../../../../UnrealProjects/Inzynierka/Inzynierka/Saved/E_AiStates471D701E4EB062A7CB28EF9F09AAD66E.tmp' to '../../../../../UnrealProjects/Inzynierka/Inzynierka/Content/Enemies/AI/Enums/E_AiStates.uasset'
+[2026.05.03-14.31.49:489][372]LogFileHelpers: InternalPromptForCheckoutAndSave took 191.811 ms (total: 2.85 sec)
+[2026.05.03-14.31.49:523][372]LogContentValidation: Display: Starting to validate 2 assets
+[2026.05.03-14.31.49:523][372]LogContentValidation: Enabled validators:
+[2026.05.03-14.31.49:523][372]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.03-14.31.49:523][372]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.03-14.31.49:523][372]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.03-14.31.49:523][372]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.03-14.31.49:523][372]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.03-14.31.49:523][372]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.03-14.31.49:524][372]AssetCheck: /Game/Enemies/AI/BT_Enemy_Base Validating asset
+[2026.05.03-14.31.49:524][372]AssetCheck: /Game/Enemies/AI/Enums/E_AiStates Validating asset
+[2026.05.03-14.32.36:021][250]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.05.03-14.32.36:825][250]LogSlate: Window 'Save Content' being destroyed
+[2026.05.03-14.32.36:904][250]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.03-14.32.36:934][250]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemies/AI/BB_Enemy_Base] ([1] browsable assets)...
+[2026.05.03-14.32.36:934][250]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/AI/BB_Enemy_Base]
+[2026.05.03-14.32.36:934][250]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/AI/BB_Enemy_Base" FILE="../../../../../UnrealProjects/Inzynierka/Inzynierka/Content/Enemies/AI/BB_Enemy_Base.uasset" SILENT=true
+[2026.05.03-14.32.36:941][250]LogSavePackage: Moving output files for package: /Game/Enemies/AI/BB_Enemy_Base
+[2026.05.03-14.32.36:941][250]LogSavePackage: Moving '../../../../../UnrealProjects/Inzynierka/Inzynierka/Saved/BB_Enemy_Base9CECD62B411F5D9935EC5C883B3F8D2C.tmp' to '../../../../../UnrealProjects/Inzynierka/Inzynierka/Content/Enemies/AI/BB_Enemy_Base.uasset'
+[2026.05.03-14.32.36:947][250]LogFileHelpers: InternalPromptForCheckoutAndSave took 42.811 ms (total: 2.89 sec)
+[2026.05.03-14.32.36:984][250]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.03-14.32.36:984][250]LogContentValidation: Enabled validators:
+[2026.05.03-14.32.36:984][250]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.03-14.32.36:984][250]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.03-14.32.36:984][250]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.03-14.32.36:984][250]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.03-14.32.36:984][250]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.03-14.32.36:984][250]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.03-14.32.36:984][250]AssetCheck: /Game/Enemies/AI/BB_Enemy_Base Validating asset
+[2026.05.03-14.32.47:244][461]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Enemies/AI/AIC_Enemy_Base.AIC_Enemy_Base
+[2026.05.03-14.32.47:245][461]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2026.05.03-14.34.20:304][748]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.05.03-14.35.04:497][423]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2026.05.03-14.35.36:754][736]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5057.720215
+[2026.05.03-14.35.37:754][739]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.03-14.35.37:754][739]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5058.387207, Update Interval: 345.473816
+[2026.05.03-14.35.53:280][389]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2026.05.03-14.35.54:058][474]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2026.05.03-14.35.54:858][474]LogSlate: Window 'Save Content' being destroyed
+[2026.05.03-14.35.54:935][474]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.03-14.35.54:967][474]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemies/AI/AIC_Enemy_Base] ([2] browsable assets)...
+[2026.05.03-14.35.54:968][474]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/AI/AIC_Enemy_Base]
+[2026.05.03-14.35.54:968][474]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/AI/AIC_Enemy_Base" FILE="../../../../../UnrealProjects/Inzynierka/Inzynierka/Content/Enemies/AI/AIC_Enemy_Base.uasset" SILENT=true
+[2026.05.03-14.35.54:977][474]LogSavePackage: Moving output files for package: /Game/Enemies/AI/AIC_Enemy_Base
+[2026.05.03-14.35.54:977][474]LogSavePackage: Moving '../../../../../UnrealProjects/Inzynierka/Inzynierka/Saved/AIC_Enemy_Base63DAA0AD44862814C0F1B184D6010465.tmp' to '../../../../../UnrealProjects/Inzynierka/Inzynierka/Content/Enemies/AI/AIC_Enemy_Base.uasset'
+[2026.05.03-14.35.54:984][474]LogFileHelpers: InternalPromptForCheckoutAndSave took 47.672 ms (total: 2.94 sec)
+[2026.05.03-14.35.55:014][474]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.03-14.35.55:014][474]LogContentValidation: Enabled validators:
+[2026.05.03-14.35.55:014][474]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.03-14.35.55:015][474]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.03-14.35.55:015][474]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.03-14.35.55:015][474]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.03-14.35.55:015][474]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.03-14.35.55:015][474]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.03-14.35.55:015][474]AssetCheck: /Game/Enemies/AI/AIC_Enemy_Base Validating asset
+[2026.05.03-14.38.14:895][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.05.03-14.38.16:213][ 83]LogSlate: Window 'Save Content' being destroyed
+[2026.05.03-14.38.16:302][ 83]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.03-14.38.16:334][ 83]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemies/AI/BT_Enemy_Base] ([1] browsable assets)...
+[2026.05.03-14.38.16:334][ 83]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/AI/BT_Enemy_Base]
+[2026.05.03-14.38.16:334][ 83]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/AI/BT_Enemy_Base" FILE="../../../../../UnrealProjects/Inzynierka/Inzynierka/Content/Enemies/AI/BT_Enemy_Base.uasset" SILENT=true
+[2026.05.03-14.38.16:342][ 83]LogSavePackage: Moving output files for package: /Game/Enemies/AI/BT_Enemy_Base
+[2026.05.03-14.38.16:343][ 83]LogSavePackage: Moving '../../../../../UnrealProjects/Inzynierka/Inzynierka/Saved/BT_Enemy_Base14DDE6F24E4552F28661AB9A2DEC0793.tmp' to '../../../../../UnrealProjects/Inzynierka/Inzynierka/Content/Enemies/AI/BT_Enemy_Base.uasset'
+[2026.05.03-14.38.16:350][ 83]LogFileHelpers: InternalPromptForCheckoutAndSave took 47.694 ms (total: 2.99 sec)
+[2026.05.03-14.38.16:376][ 83]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.03-14.38.16:376][ 83]LogContentValidation: Enabled validators:
+[2026.05.03-14.38.16:376][ 83]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.03-14.38.16:376][ 83]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.03-14.38.16:376][ 83]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.03-14.38.16:376][ 83]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.03-14.38.16:376][ 83]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.03-14.38.16:376][ 83]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.03-14.38.16:377][ 83]AssetCheck: /Game/Enemies/AI/BT_Enemy_Base Validating asset
+[2026.05.03-14.38.33:810][ 45]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.03-14.38.33:841][ 45]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemies/AI/AIC_Enemy_Base] ([2] browsable assets)...
+[2026.05.03-14.38.33:841][ 45]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/AI/AIC_Enemy_Base]
+[2026.05.03-14.38.33:841][ 45]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/AI/AIC_Enemy_Base" FILE="../../../../../UnrealProjects/Inzynierka/Inzynierka/Content/Enemies/AI/AIC_Enemy_Base.uasset" SILENT=true
+[2026.05.03-14.38.33:850][ 45]LogSavePackage: Moving output files for package: /Game/Enemies/AI/AIC_Enemy_Base
+[2026.05.03-14.38.33:850][ 45]LogSavePackage: Moving '../../../../../UnrealProjects/Inzynierka/Inzynierka/Saved/AIC_Enemy_BaseBD6F9E7F4F2300F3689E58B8ED098BCA.tmp' to '../../../../../UnrealProjects/Inzynierka/Inzynierka/Content/Enemies/AI/AIC_Enemy_Base.uasset'
+[2026.05.03-14.38.33:857][ 45]LogFileHelpers: InternalPromptForCheckoutAndSave took 47.209 ms (total: 3.04 sec)
+[2026.05.03-14.38.33:882][ 45]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.03-14.38.33:882][ 45]LogContentValidation: Enabled validators:
+[2026.05.03-14.38.33:882][ 45]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.03-14.38.33:882][ 45]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.03-14.38.33:882][ 45]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.03-14.38.33:882][ 45]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.03-14.38.33:882][ 45]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.03-14.38.33:882][ 45]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.03-14.38.33:882][ 45]AssetCheck: /Game/Enemies/AI/AIC_Enemy_Base Validating asset
+[2026.05.03-14.38.35:340][217]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.05.03-14.38.35:344][217]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.05.03-14.38.35:344][217]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.05.03-14.38.35:344][217]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 525 us (total: 3.675 ms)
+[2026.05.03-14.38.35:350][217]LogPlayLevel: [PlayLevel] Compiling PROTO_BP_AnimBlueprint_0 before play...
+[2026.05.03-14.38.35:375][217]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2026.05.03-14.38.35:377][217]LogPlayLevel: PlayLevel: Blueprint regeneration took 27 ms (1 blueprints)
+[2026.05.03-14.38.35:378][217]LogPlayLevel: Display: Creating online subsystem for client :Context_22
+[2026.05.03-14.38.35:379][217]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2026.05.03-14.38.35:402][218]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.05.03-14.38.35:409][218]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.05.03-14.38.35:409][218]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.299 ms (total: 9.199 ms)
+[2026.05.03-14.38.35:409][218]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007403s)
+[2026.05.03-14.38.35:409][218]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.007435s)
+[2026.05.03-14.38.35:429][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.05.03-14.38.35:432][218]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.05.03-14.38.35:433][218]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.05.03-14.38.35:433][218]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.05.03-14.38.35:433][218]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.05.03-14.38.35:433][218]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.05.03-14.38.35:435][218]LogWorldPartition: Display: WorldPartition initialize took 1.538 ms (total: 499.741 ms)
+[2026.05.03-14.38.35:435][218]LogPlayLevel: PIE: World Init took: (0.002765s)
+[2026.05.03-14.38.35:436][218]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2026.05.03-14.38.35:436][218]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.03-14.38.35:436][218]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.03-14.38.35:436][218]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.03-14.38.35:436][218]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.03-14.38.35:436][218]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.03-14.38.35:436][218]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.03-14.38.35:436][218]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.03-14.38.35:436][218]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.03-14.38.35:436][218]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.03-14.38.35:436][218]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.03-14.38.35:436][218]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.03-14.38.35:438][218]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.03-14.38.35:461][218]LogAudioMixer: Display: Using Audio Hardware Device Głośniki (Logitech PRO X Wireless Gaming Headset)
+[2026.05.03-14.38.35:461][218]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.03-14.38.35:461][218]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.03-14.38.35:461][218]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.03-14.38.35:462][218]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2026.05.03-14.38.35:462][218]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=8
+[2026.05.03-14.38.35:463][218]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2026.05.03-14.38.35:463][218]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2026.05.03-14.38.35:463][218]LogInit: FAudioDevice initialized with ID 8.
+[2026.05.03-14.38.35:463][218]LogAudio: Display: Audio Device (ID: 8) registered with world 'Lvl_ThirdPerson'.
+[2026.05.03-14.38.35:463][218]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2026.05.03-14.38.35:466][218]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.05.03-14.38.35:469][218]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2026.05.03-16.38.35
+[2026.05.03-14.38.35:469][218]LogWorld: Bringing up level for play took: 0.003382
+[2026.05.03-14.38.35:472][218]PIE: Server logged in
+[2026.05.03-14.38.35:473][218]PIE: Play in editor total start time 0,13 seconds.
+[2026.05.03-14.38.35:506][219]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.05.03-14.38.39:971][744]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.03-14.38.39:971][744]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.05.03-14.38.39:971][744]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.05.03-14.38.39:971][744]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.05.03-14.38.39:971][744]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.03-14.38.39:971][744]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.05.03-14.38.39:976][744]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.03-14.38.39:981][744]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.03-14.38.39:999][744]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.03-14.38.40:000][744]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2026.05.03-14.38.40:000][744]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=4
+[2026.05.03-14.38.40:002][744]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=2
+[2026.05.03-14.38.40:007][744]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.05.03-14.38.40:099][745]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2026.05.03-14.38.45:687][395]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.03-14.38.45:719][395]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemies/AI/AIC_Enemy_Base] ([2] browsable assets)...
+[2026.05.03-14.38.45:719][395]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/AI/AIC_Enemy_Base]
+[2026.05.03-14.38.45:719][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/AI/AIC_Enemy_Base" FILE="../../../../../UnrealProjects/Inzynierka/Inzynierka/Content/Enemies/AI/AIC_Enemy_Base.uasset" SILENT=true
+[2026.05.03-14.38.45:728][395]LogSavePackage: Moving output files for package: /Game/Enemies/AI/AIC_Enemy_Base
+[2026.05.03-14.38.45:729][395]LogSavePackage: Moving '../../../../../UnrealProjects/Inzynierka/Inzynierka/Saved/AIC_Enemy_Base50E7D39B44F6EA97469968A487F434AE.tmp' to '../../../../../UnrealProjects/Inzynierka/Inzynierka/Content/Enemies/AI/AIC_Enemy_Base.uasset'
+[2026.05.03-14.38.45:733][395]LogFileHelpers: InternalPromptForCheckoutAndSave took 45.918 ms (total: 3.08 sec)
+[2026.05.03-14.38.45:760][395]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.03-14.38.45:760][395]LogContentValidation: Enabled validators:
+[2026.05.03-14.38.45:760][395]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.03-14.38.45:760][395]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.03-14.38.45:760][395]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.03-14.38.45:760][395]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.03-14.38.45:760][395]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.03-14.38.45:760][395]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.03-14.38.45:760][395]AssetCheck: /Game/Enemies/AI/AIC_Enemy_Base Validating asset
+[2026.05.03-14.38.47:311][578]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.05.03-14.38.47:316][578]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.05.03-14.38.47:316][578]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2026.05.03-14.38.47:317][578]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 509 us (total: 4.185 ms)
+[2026.05.03-14.38.47:320][578]LogPlayLevel: [PlayLevel] Compiling AIC_Enemy_Base before play...
+[2026.05.03-14.38.47:360][578]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2026.05.03-14.38.47:363][578]LogPlayLevel: PlayLevel: Blueprint regeneration took 43 ms (1 blueprints)
+[2026.05.03-14.38.47:363][578]LogPlayLevel: Display: Creating online subsystem for client :Context_23
+[2026.05.03-14.38.47:366][578]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2026.05.03-14.38.47:388][579]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.05.03-14.38.47:394][579]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.05.03-14.38.47:395][579]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.325 ms (total: 10.525 ms)
+[2026.05.03-14.38.47:395][579]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007354s)
+[2026.05.03-14.38.47:395][579]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.007384s)
+[2026.05.03-14.38.47:415][579]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2026.05.03-14.38.47:419][579]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2026.05.03-14.38.47:421][579]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.05.03-14.38.47:421][579]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.05.03-14.38.47:421][579]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.05.03-14.38.47:421][579]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.05.03-14.38.47:422][579]LogWorldPartition: Display: WorldPartition initialize took 1.556 ms (total: 501.297 ms)
+[2026.05.03-14.38.47:422][579]LogPlayLevel: PIE: World Init took: (0.002799s)
+[2026.05.03-14.38.47:423][579]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2026.05.03-14.38.47:423][579]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.05.03-14.38.47:423][579]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.05.03-14.38.47:423][579]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.05.03-14.38.47:423][579]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.05.03-14.38.47:423][579]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.05.03-14.38.47:423][579]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.05.03-14.38.47:423][579]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.05.03-14.38.47:423][579]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.05.03-14.38.47:423][579]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.05.03-14.38.47:423][579]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.05.03-14.38.47:423][579]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.05.03-14.38.47:425][579]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.05.03-14.38.47:445][579]LogAudioMixer: Display: Using Audio Hardware Device Głośniki (Logitech PRO X Wireless Gaming Headset)
+[2026.05.03-14.38.47:445][579]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.05.03-14.38.47:445][579]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.05.03-14.38.47:445][579]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.05.03-14.38.47:447][579]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2026.05.03-14.38.47:447][579]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=9
+[2026.05.03-14.38.47:449][579]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2026.05.03-14.38.47:449][579]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2026.05.03-14.38.47:449][579]LogInit: FAudioDevice initialized with ID 9.
+[2026.05.03-14.38.47:449][579]LogAudio: Display: Audio Device (ID: 9) registered with world 'Lvl_ThirdPerson'.
+[2026.05.03-14.38.47:449][579]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2026.05.03-14.38.47:451][579]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.05.03-14.38.47:454][579]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2026.05.03-16.38.47
+[2026.05.03-14.38.47:455][579]LogWorld: Bringing up level for play took: 0.003294
+[2026.05.03-14.38.47:458][579]PIE: Server logged in
+[2026.05.03-14.38.47:459][579]PIE: Play in editor total start time 0,143 seconds.
+[2026.05.03-14.38.47:491][580]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.05.03-14.38.51:041][996]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.03-14.38.51:041][996]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2026.05.03-14.38.51:041][996]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2026.05.03-14.38.51:041][996]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.05.03-14.38.51:042][996]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.03-14.38.51:042][996]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.05.03-14.38.51:045][996]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.05.03-14.38.51:050][996]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.03-14.38.51:069][996]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.05.03-14.38.51:069][996]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2026.05.03-14.38.51:069][996]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=4
+[2026.05.03-14.38.51:073][996]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=2
+[2026.05.03-14.38.51:078][996]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2026.05.03-14.38.51:176][997]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2026.05.03-14.39.45:627][659]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.03-14.39.45:652][659]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemies/AI/AIC_Enemy_Base] ([2] browsable assets)...
+[2026.05.03-14.39.45:652][659]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/AI/AIC_Enemy_Base]
+[2026.05.03-14.39.45:652][659]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/AI/AIC_Enemy_Base" FILE="../../../../../UnrealProjects/Inzynierka/Inzynierka/Content/Enemies/AI/AIC_Enemy_Base.uasset" SILENT=true
+[2026.05.03-14.39.45:660][659]LogSavePackage: Moving output files for package: /Game/Enemies/AI/AIC_Enemy_Base
+[2026.05.03-14.39.45:660][659]LogSavePackage: Moving '../../../../../UnrealProjects/Inzynierka/Inzynierka/Saved/AIC_Enemy_Base393E78234DCA146853A12692FBA7CA45.tmp' to '../../../../../UnrealProjects/Inzynierka/Inzynierka/Content/Enemies/AI/AIC_Enemy_Base.uasset'
+[2026.05.03-14.39.45:666][659]LogFileHelpers: InternalPromptForCheckoutAndSave took 39.892 ms (total: 3.12 sec)
+[2026.05.03-14.39.45:699][659]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.03-14.39.45:699][659]LogContentValidation: Enabled validators:
+[2026.05.03-14.39.45:699][659]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.03-14.39.45:699][659]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.03-14.39.45:699][659]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.03-14.39.45:699][659]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.03-14.39.45:699][659]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.03-14.39.45:699][659]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.03-14.39.45:699][659]AssetCheck: /Game/Enemies/AI/AIC_Enemy_Base Validating asset
+[2026.05.03-14.40.11:404][931]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
