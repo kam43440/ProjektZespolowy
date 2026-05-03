@@ -1422,3 +1422,23 @@ FPackageName: Skipped package /Game/StarterContent/Materials/M_Metal_Gold has a 
 [2026.05.03-13.39.46:540][901]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1707.635254
 [2026.05.03-13.39.47:540][904]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.05.03-13.39.47:540][904]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1708.301758, Update Interval: 304.222534
+[2026.05.03-13.44.58:779][955]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2026.05.03-13.45.06:763][888]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2026.05.03-13.45.06:763][888]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2026.05.03-13.45.56:266][816]LogSlate: Window 'Save Asset As' being destroyed
+[2026.05.03-13.45.56:274][816]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Enemies/AI/Tasks/BTT_MoveAlongPatrolRoute.BTT_MoveAlongPatrolRoute
+[2026.05.03-13.45.56:274][816]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2026.05.03-13.45.56:334][816]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/Enemies/AI/Tasks/BTT_MoveAlongPatrolRoute.
+[2026.05.03-13.45.56:554][816]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2077.652832
+[2026.05.03-13.45.56:722][836]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.03-13.45.56:722][837]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2077.811279, Update Interval: 302.629486
+[2026.05.03-13.46.08:607][153]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2026.05.03-13.46.08:616][153]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/1X/9HHYTPQ19KST6YZ15RXUV5_Auto3
+[2026.05.03-13.46.08:616][153]LogSavePackage: Moving '../../../../../UnrealProjects/Inzynierka/Inzynierka/Saved/9HHYTPQ19KST6YZ15RXUV5_Auto312E2C9B344A8BF244B27CC9A2AF484E2.tmp' to '../../../../../UnrealProjects/Inzynierka/Inzynierka/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/1X/9HHYTPQ19KST6YZ15RXUV5_Auto3.uasset'
+[2026.05.03-13.46.08:616][153]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.044
+[2026.05.03-13.46.08:616][153]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.044
+[2026.05.03-13.46.08:617][153]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemies/AI/Tasks/BTT_MoveAlongPatrolRoute] ([2] browsable assets)...
+[2026.05.03-13.46.08:617][153]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/AI/Tasks/BTT_MoveAlongPatrolRoute]
+[2026.05.03-13.46.08:621][153]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Enemies/AI/Tasks/BTT_MoveAlongPatrolRoute_Auto3
+[2026.05.03-13.46.08:621][153]LogSavePackage: Moving '../../../../../UnrealProjects/Inzynierka/Inzynierka/Saved/BTT_MoveAlongPatrolRoute_Auto34831865E4A645DAE001773BB3D1C8292.tmp' to '../../../../../UnrealProjects/Inzynierka/Inzynierka/Saved/Autosaves/Game/Enemies/AI/Tasks/BTT_MoveAlongPatrolRoute_Auto3.uasset'
+[2026.05.03-13.46.08:629][153]LogFileHelpers: Auto-saving content packages took 0.014
