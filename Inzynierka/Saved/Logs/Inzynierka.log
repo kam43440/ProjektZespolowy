@@ -1237,3 +1237,29 @@ FPackageName: Skipped package /Game/StarterContent/Materials/M_Metal_Gold has a 
 [2026.05.23-16.46.05:720][531]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.05.23-16.46.05:720][531]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.05.23-16.46.05:720][531]AssetCheck: /Game/Enemies/AI/AIC_Enemy_Base Validating asset
+[2026.05.23-16.46.59:979][689]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2026.05.23-16.47.00:939][780]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Player/BP_Player.BP_Player
+[2026.05.23-16.47.00:939][780]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2026.05.23-16.47.01:583][781]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2026.05.23-16.47.01:662][783]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2026.05.23-16.47.06:790][995]LogSlate: Window 'BP_Player' being destroyed
+[2026.05.23-16.50.46:506][867]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 988.101685
+[2026.05.23-16.50.47:506][870]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.23-16.50.47:506][870]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 988.769104, Update Interval: 322.061218
+[2026.05.23-16.51.47:282][675]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.23-16.51.47:310][675]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Player/BP_Player] ([2] browsable assets)...
+[2026.05.23-16.51.47:351][675]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Player/BP_Player.BP_Player]
+[2026.05.23-16.51.47:351][675]OBJ SavePackage: Finished generating thumbnails for package [/Game/Player/BP_Player]
+[2026.05.23-16.51.47:351][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Player/BP_Player" FILE="../../../../../UnrealProjects/Inzynierka/Inzynierka/Content/Player/BP_Player.uasset" SILENT=true
+[2026.05.23-16.51.47:382][675]LogSavePackage: Moving output files for package: /Game/Player/BP_Player
+[2026.05.23-16.51.47:383][675]LogSavePackage: Moving '../../../../../UnrealProjects/Inzynierka/Inzynierka/Saved/BP_PlayerB46D8119411765D8AF5C6CB299383D04.tmp' to '../../../../../UnrealProjects/Inzynierka/Inzynierka/Content/Player/BP_Player.uasset'
+[2026.05.23-16.51.47:389][675]LogFileHelpers: InternalPromptForCheckoutAndSave took 107.729 ms (total: 279.832 ms)
+[2026.05.23-16.51.47:420][675]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.23-16.51.47:420][675]LogContentValidation: Enabled validators:
+[2026.05.23-16.51.47:420][675]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.23-16.51.47:420][675]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.23-16.51.47:420][675]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.23-16.51.47:420][675]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.23-16.51.47:420][675]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.23-16.51.47:420][675]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.23-16.51.47:420][675]AssetCheck: /Game/Player/BP_Player Validating asset
