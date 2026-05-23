@@ -1696,3 +1696,10 @@ FPackageName: Skipped package /Game/StarterContent/Materials/M_Metal_Gold has a 
 [2026.05.23-17.06.32:475][ 20]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.05.23-17.06.32:475][ 20]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.05.23-17.06.32:475][ 20]AssetCheck: /Game/Enemies/AI/Tasks/BTT_MoveAlongPatrolRoute Validating asset
+[2026.05.23-17.07.30:907][400]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1992.485352
+[2026.05.23-17.07.31:907][403]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.23-17.07.31:907][403]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1993.151978, Update Interval: 351.313202
+[2026.05.23-17.11.27:135][595]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2026.05.23-17.11.29:436][858]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2026.05.23-17.12.42:342][700]LogStreaming: Display: FlushAsyncLoading(597): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.23-17.12.42:656][700]LogAssetTools: Warning: Failed to import 'C:\Users\tiker\Desktop\UE5ASSETS\Content\Animations\Melee\sword-sheath.uasset'. Unknown extension 'uasset'.
