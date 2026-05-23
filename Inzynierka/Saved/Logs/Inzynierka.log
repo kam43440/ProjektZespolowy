@@ -1189,3 +1189,51 @@ FPackageName: Skipped package /Game/StarterContent/Materials/M_Metal_Gold has a 
 [2026.05.23-16.38.09:949][673]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.05.23-16.38.09:949][673]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.05.23-16.38.09:949][673]AssetCheck: /Game/Enemies/AI/AIC_Enemy_Base Validating asset
+[2026.05.23-16.39.44:756][205]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 326.353790
+[2026.05.23-16.39.45:757][208]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.23-16.39.45:757][208]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 327.020355, Update Interval: 322.813812
+[2026.05.23-16.42.38:970][243]LogEditorTransaction: Undo Delete current selection
+[2026.05.23-16.42.40:366][371]LogEditorTransaction: Undo Delete current selection
+[2026.05.23-16.42.41:017][444]LogEditorTransaction: Undo Delete current selection
+[2026.05.23-16.44.22:363][572]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.23-16.44.22:390][572]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemies/AI/AIC_Enemy_Base] ([2] browsable assets)...
+[2026.05.23-16.44.22:390][572]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/AI/AIC_Enemy_Base]
+[2026.05.23-16.44.22:390][572]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/AI/AIC_Enemy_Base" FILE="../../../../../UnrealProjects/Inzynierka/Inzynierka/Content/Enemies/AI/AIC_Enemy_Base.uasset" SILENT=true
+[2026.05.23-16.44.22:417][572]LogSavePackage: Moving output files for package: /Game/Enemies/AI/AIC_Enemy_Base
+[2026.05.23-16.44.22:417][572]LogSavePackage: Moving '../../../../../UnrealProjects/Inzynierka/Inzynierka/Saved/AIC_Enemy_Base6EA02A98490EF3565F6F9D9C6C0D7E9B.tmp' to '../../../../../UnrealProjects/Inzynierka/Inzynierka/Content/Enemies/AI/AIC_Enemy_Base.uasset'
+[2026.05.23-16.44.22:423][572]LogFileHelpers: InternalPromptForCheckoutAndSave took 59.923 ms (total: 129.307 ms)
+[2026.05.23-16.44.22:451][572]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.23-16.44.22:451][572]LogContentValidation: Enabled validators:
+[2026.05.23-16.44.22:451][572]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.23-16.44.22:451][572]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.23-16.44.22:451][572]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.23-16.44.22:451][572]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.23-16.44.22:451][572]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.23-16.44.22:451][572]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.23-16.44.22:452][572]AssetCheck: /Game/Enemies/AI/AIC_Enemy_Base Validating asset
+[2026.05.23-16.45.12:273][694]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 653.871277
+[2026.05.23-16.45.13:276][697]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.23-16.45.13:276][697]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 654.540161, Update Interval: 329.330719
+[2026.05.23-16.45.43:851][309]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2026.05.23-16.45.43:854][309]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.086
+[2026.05.23-16.45.43:856][309]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemies/AI/AIC_Enemy_Base] ([2] browsable assets)...
+[2026.05.23-16.45.43:856][309]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/AI/AIC_Enemy_Base]
+[2026.05.23-16.45.43:869][309]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Enemies/AI/AIC_Enemy_Base_Auto1
+[2026.05.23-16.45.43:869][309]LogSavePackage: Moving '../../../../../UnrealProjects/Inzynierka/Inzynierka/Saved/AIC_Enemy_Base_Auto1F1B2DE08402FC8E4B0469CA1AA14F8A6.tmp' to '../../../../../UnrealProjects/Inzynierka/Inzynierka/Saved/Autosaves/Game/Enemies/AI/AIC_Enemy_Base_Auto1.uasset'
+[2026.05.23-16.45.43:869][309]LogFileHelpers: Auto-saving content packages took 0.014
+[2026.05.23-16.46.05:644][531]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.23-16.46.05:671][531]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemies/AI/AIC_Enemy_Base] ([2] browsable assets)...
+[2026.05.23-16.46.05:671][531]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/AI/AIC_Enemy_Base]
+[2026.05.23-16.46.05:671][531]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/AI/AIC_Enemy_Base" FILE="../../../../../UnrealProjects/Inzynierka/Inzynierka/Content/Enemies/AI/AIC_Enemy_Base.uasset" SILENT=true
+[2026.05.23-16.46.05:681][531]LogSavePackage: Moving output files for package: /Game/Enemies/AI/AIC_Enemy_Base
+[2026.05.23-16.46.05:681][531]LogSavePackage: Moving '../../../../../UnrealProjects/Inzynierka/Inzynierka/Saved/AIC_Enemy_BaseC8E501D84A89F56154FAC4B80CDF8FE6.tmp' to '../../../../../UnrealProjects/Inzynierka/Inzynierka/Content/Enemies/AI/AIC_Enemy_Base.uasset'
+[2026.05.23-16.46.05:687][531]LogFileHelpers: InternalPromptForCheckoutAndSave took 42.794 ms (total: 172.102 ms)
+[2026.05.23-16.46.05:720][531]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.23-16.46.05:720][531]LogContentValidation: Enabled validators:
+[2026.05.23-16.46.05:720][531]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.23-16.46.05:720][531]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.23-16.46.05:720][531]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.23-16.46.05:720][531]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.23-16.46.05:720][531]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.23-16.46.05:720][531]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.23-16.46.05:720][531]AssetCheck: /Game/Enemies/AI/AIC_Enemy_Base Validating asset
