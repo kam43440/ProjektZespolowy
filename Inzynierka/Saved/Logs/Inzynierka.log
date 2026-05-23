@@ -1703,3 +1703,46 @@ FPackageName: Skipped package /Game/StarterContent/Materials/M_Metal_Gold has a 
 [2026.05.23-17.11.29:436][858]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
 [2026.05.23-17.12.42:342][700]LogStreaming: Display: FlushAsyncLoading(597): 1 QueuedPackages, 0 AsyncPackages
 [2026.05.23-17.12.42:656][700]LogAssetTools: Warning: Failed to import 'C:\Users\tiker\Desktop\UE5ASSETS\Content\Animations\Melee\sword-sheath.uasset'. Unknown extension 'uasset'.
+[2026.05.23-17.14.05:555][991]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2387.129395
+[2026.05.23-17.14.05:721][ 11]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.23-17.14.05:721][ 12]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2387.287109, Update Interval: 315.388641
+[2026.05.23-17.14.07:054][169]LogStreaming: Display: FlushAsyncLoading(625): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.23-17.14.07:060][169]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Animations/sword-sheath.sword-sheath (Required Memory Estimate: 13.70 MB)
+[2026.05.23-17.14.07:061][169]LogContentBrowser: Deferred new asset file creation: sword-sheath_Montage
+[2026.05.23-17.14.07:074][169]LogContentBrowser: Creating deferred item: sword-sheath_Montage
+[2026.05.23-17.14.07:082][170]LogContentBrowser: Renaming the item being created (Deferred Item: sword-sheath_Montage).
+[2026.05.23-17.14.07:155][176]LogAnimationCompression: Display: Storing compressed animation data for /Game/Animations/sword-sheath.sword-sheath, at AnimationSequence/552caf00eee7ef33da21dcaa2da060ebeed187ac
+[2026.05.23-17.14.25:723][852]LogContentBrowser: Attempting asset rename: sword-sheath_Montage -> Montage_Sheath_sword
+[2026.05.23-17.14.25:816][852]LogContentBrowser: End creating deferred item sword-sheath_Montage
+[2026.05.23-17.14.34:769][976]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/Animations/Montage_Sheath_sword.Montage_Sheath_sword
+[2026.05.23-17.14.34:854][976]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2026.05.23-17.14.34:858][976]LogStreaming: Display: FlushAsyncLoading(626): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.23-17.14.34:966][976]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.05.23-17.14.35:351][976]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2026.05.23-17.14.35:762][976]LogSlate: Took 0.006512 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2026.05.23-17.15.02:039][461]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2026.05.23-17.15.02:042][461]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.052
+[2026.05.23-17.15.02:043][461]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/Montage_Sheath_sword] ([1] browsable assets)...
+[2026.05.23-17.15.02:052][461]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/Animations/Montage_Sheath_sword.Montage_Sheath_sword]
+[2026.05.23-17.15.02:052][461]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Montage_Sheath_sword]
+[2026.05.23-17.15.02:058][461]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animations/Montage_Sheath_sword_Auto3
+[2026.05.23-17.15.02:058][461]LogSavePackage: Moving '../../../../../UnrealProjects/Inzynierka/Inzynierka/Saved/Montage_Sheath_sword_Auto3CBF5146844D1A9540B4613AA0DD72359.tmp' to '../../../../../UnrealProjects/Inzynierka/Inzynierka/Saved/Autosaves/Game/Animations/Montage_Sheath_sword_Auto3.uasset'
+[2026.05.23-17.15.02:059][461]LogFileHelpers: Auto-saving content packages took 0.016
+[2026.05.23-17.15.48:606][888]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.05.23-17.15.49:444][888]LogSlate: Window 'Save Content' being destroyed
+[2026.05.23-17.15.49:517][888]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.05.23-17.15.49:546][888]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Animations/Montage_Sheath_sword] ([1] browsable assets)...
+[2026.05.23-17.15.49:546][888]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/Montage_Sheath_sword]
+[2026.05.23-17.15.49:546][888]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/Montage_Sheath_sword" FILE="../../../../../UnrealProjects/Inzynierka/Inzynierka/Content/Animations/Montage_Sheath_sword.uasset" SILENT=true
+[2026.05.23-17.15.49:554][888]LogSavePackage: Moving output files for package: /Game/Animations/Montage_Sheath_sword
+[2026.05.23-17.15.49:554][888]LogSavePackage: Moving '../../../../../UnrealProjects/Inzynierka/Inzynierka/Saved/Montage_Sheath_sword8C99FC654626E2E72E011CA7EE6F7018.tmp' to '../../../../../UnrealProjects/Inzynierka/Inzynierka/Content/Animations/Montage_Sheath_sword.uasset'
+[2026.05.23-17.15.49:697][888]LogFileHelpers: InternalPromptForCheckoutAndSave took 180.017 ms (total: 665.629 ms)
+[2026.05.23-17.15.49:720][888]LogContentValidation: Display: Starting to validate 1 assets
+[2026.05.23-17.15.49:720][888]LogContentValidation: Enabled validators:
+[2026.05.23-17.15.49:720][888]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.05.23-17.15.49:720][888]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.05.23-17.15.49:720][888]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.05.23-17.15.49:720][888]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.05.23-17.15.49:720][888]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.05.23-17.15.49:720][888]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.05.23-17.15.49:720][888]AssetCheck: /Game/Animations/Montage_Sheath_sword Validating asset
