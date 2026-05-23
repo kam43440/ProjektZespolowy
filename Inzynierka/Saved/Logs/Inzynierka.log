@@ -1217,3 +1217,39 @@ FPackageName: Skipped package /Game/StarterContent/Materials/M_Metal_Gold has a 
 [2026.05.23-17.25.08:227][935]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 353.426788
 [2026.05.23-17.25.09:227][938]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.05.23-17.25.09:227][938]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 354.092804, Update Interval: 302.823578
+[2026.05.23-17.29.43:945][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2026.05.23-17.29.43:947][ 79]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.023
+[2026.05.23-17.29.43:947][ 79]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Enemies/BP_Enemy_Base] ([2] browsable assets)...
+[2026.05.23-17.29.43:948][ 79]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2026.05.23-17.29.44:114][ 79]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/Enemies/BP_Enemy_Base.BP_Enemy_Base_C]
+[2026.05.23-17.29.44:115][ 79]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2026.05.23-17.29.44:129][ 79]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemies/BP_Enemy_Base.BP_Enemy_Base]
+[2026.05.23-17.29.44:129][ 79]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/BP_Enemy_Base]
+[2026.05.23-17.29.44:130][ 79]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/BP_Enemy_Base" FILE="../../../../../UnrealProjects/Inzynierka/Inzynierka/Saved/Autosaves/Game/Enemies/BP_Enemy_Base_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2026.05.23-17.29.44:166][ 79]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Enemies/BP_Enemy_Base_Auto1
+[2026.05.23-17.29.44:166][ 79]LogSavePackage: Moving '../../../../../UnrealProjects/Inzynierka/Inzynierka/Saved/BP_Enemy_Base_Auto1616BFEA9453B599C6B3C7EBCB97E55E9.tmp' to '../../../../../UnrealProjects/Inzynierka/Inzynierka/Saved/Autosaves/Game/Enemies/BP_Enemy_Base_Auto1.uasset'
+[2026.05.23-17.29.44:167][ 79]LogFileHelpers: Auto-saving content packages took 0.220
+[2026.05.23-17.30.15:896][175]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 661.096619
+[2026.05.23-17.30.16:901][178]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.23-17.30.16:901][178]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 661.767944, Update Interval: 309.739685
+[2026.05.23-17.35.33:815][582]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 979.013916
+[2026.05.23-17.35.34:815][585]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.23-17.35.34:815][585]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 979.680725, Update Interval: 309.617004
+[2026.05.23-17.38.31:766][239]LogStreaming: Display: FlushAsyncLoading(604): 1 QueuedPackages, 0 AsyncPackages
+[2026.05.23-17.39.52:905][403]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2026.05.23-17.39.52:908][403]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.027
+[2026.05.23-17.39.52:909][403]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Enemies/BP_Enemy_Base] ([2] browsable assets)...
+[2026.05.23-17.39.52:952][403]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemies/BP_Enemy_Base.BP_Enemy_Base]
+[2026.05.23-17.39.52:952][403]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/BP_Enemy_Base]
+[2026.05.23-17.39.52:952][403]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/BP_Enemy_Base" FILE="../../../../../UnrealProjects/Inzynierka/Inzynierka/Saved/Autosaves/Game/Enemies/BP_Enemy_Base_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2026.05.23-17.39.52:980][403]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Enemies/BP_Enemy_Base_Auto2
+[2026.05.23-17.39.52:980][403]LogSavePackage: Moving '../../../../../UnrealProjects/Inzynierka/Inzynierka/Saved/BP_Enemy_Base_Auto27696073D4338797A4581029CC423B79A.tmp' to '../../../../../UnrealProjects/Inzynierka/Inzynierka/Saved/Autosaves/Game/Enemies/BP_Enemy_Base_Auto2.uasset'
+[2026.05.23-17.39.52:981][403]LogFileHelpers: Auto-saving content packages took 0.073
+[2026.05.23-17.40.40:499][299]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2026.05.23-17.40.51:113][540]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2026.05.23-17.40.52:195][650]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Weapons/BP_Sword.BP_Sword
+[2026.05.23-17.40.52:196][650]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2026.05.23-17.40.53:795][790]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1298.993530
+[2026.05.23-17.40.53:945][808]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.05.23-17.40.53:945][808]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1299.135132, Update Interval: 347.473389
+[2026.05.23-17.41.23:648][929]LogSlate: Took 0.000164 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
