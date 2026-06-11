@@ -73,3 +73,11 @@ Plugins/**/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 Inzynierka/Saved/Logs/Inzynierka.log
+
+# Unreal Engine
+Saved/
+.vs/
+Intermediate/
+Binaries/
+DerivedDataCache/
+*.log
